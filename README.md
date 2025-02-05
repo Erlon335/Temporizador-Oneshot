@@ -53,15 +53,17 @@ A Formação Básica em Software Embarcado da Embarcatech é um programa de capa
 
   - tasks.json
 
+- assets/
+
 - CMakeLists.txt
 
 - LICENSE
 
-- Oneshot.c
+- Oneshot.cc&emsp;&emsp;&emsp;&emsp; # Código principal do projeto
 
 - README.md
 
-- diagram.json
+- diagram.json&emsp;&emsp;&emsp;&emsp;# Arquivo Wokwi do BitDogLab
 
 - pico_sdk_import.cmake
 
@@ -149,7 +151,7 @@ elf = 'build/Oneshot.elf'
 ## 🎥 Imagens do Projeto
 
 ### 💿 Diagrama Visual do Projeto
-<p align="center"><img width="700" height="400" src=""></p>
+<p align="center"><img width="700" height="400" src="https://github.com/Erlon335/Temporizador-Oneshot/blob/main/assets/Diagram%20Oneshot.png"></p>
 
 ### 💿 Video Demonstrativo do Projeto
 
